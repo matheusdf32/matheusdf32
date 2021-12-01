@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @matheusdf32
-- 👀 I’m interested in a job that will give me the best opportunity to learn and improva
-- 🌱 I’m currently learning ASP.NET/core. 
+- 👀 I’m interested in a job that will give me the best opportunity to learn and improve
+- 🌱 I’m currently learning C# in Unity.
+-  🕹 In the proccess of making a game.
 - 💞️ I’m looking to collaborate on making the best product your company can offer.
 - 📫 How to reach me is through https://www.linkedin.com/in/matheus-duarte-ferreira/
 
