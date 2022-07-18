@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matheusdf32
-- 👀 I’m interested in work with true professionals and become just as good, if not better.
+- 👀 I’m interested in working with true professionals and become just as good, if not better.
 - 🌱 I’m currently looking for a north american job so I can dive into where true software is made.
--  🕹 I have much to learn, but I also think it's FUN.
+-  🕹 I have much to learn, but I also think it's FUN. My energy to nonstop coding is overflowing.
 - 💞️ I’m looking to collaborate in code and core on making the best product your company can offer.
 - 📫 How to reach me is through my gmail: matheusduarteferreira32 (without domain so bots won't find and spam it)
